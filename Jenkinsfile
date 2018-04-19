@@ -7,4 +7,7 @@ pipeline {
       }
     }
   }
+  environment {
+    MY_NAME = 'Mary'
+  }
 }
